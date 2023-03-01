@@ -1,0 +1,53 @@
+body
+{
+    text-align: center;
+    margin: 2px;
+    padding-top: 20px;
+}
+#tim
+{
+height: 150px;
+width: 100px;
+border-radius: 50%;
+}
+#welcome
+{
+background: linear-gradient(green 20%, yellow 80%);
+color: aqua;
+padding-top: 10px;
+padding-bottom: 10px;
+z-index: 9;
+}
+#p1
+{
+    font-size: 75px;
+    font-weight: 100px;
+    font-style: oblique;
+}
+#p2
+{
+    font-size: 75px;
+    font-weight: 100px;
+    font-style: oblique;
+}
+.line
+{
+    height: 5px ;
+    width: 70px;
+    background-color: black;
+   margin: 50px auto;
+   text-align: center;
+}
+#bio
+{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: 100;
+margin: 50px auto;
+}
+#work
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:100px ;
+    forced-color-adjust: green;
+    
+}
